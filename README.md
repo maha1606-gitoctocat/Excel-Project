@@ -23,11 +23,11 @@ Total Products: 34
 - Creating Pivot Tables
 - Generating charts for visualization
 ##   Executive-Level Summary
-Stanford leads in both peak and average performance.
-MBA is the most demanded program.
-IB & Finance dominate domain interest.
-There is a large performance gap between top-tier and lower-performing institutions
-Student interest is strongly business-oriented.
+- Stanford leads in both peak and average performance.
+- MBA is the most demanded program.
+- IB & Finance dominate domain interest.
+- There is a large performance gap between top-tier and lower-performing institutions
+- Student interest is strongly business-oriented.
 
 ![Alt Text](https://github.com/maha1606-gitoctocat/Excel-Project/blob/cf9ac6e0a7ae440f0cc27c0097327a8b3c7efed9/Output/Dashboard)
 
