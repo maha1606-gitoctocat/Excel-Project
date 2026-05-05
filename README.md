@@ -34,10 +34,10 @@ University of Oxford recorded the lowest score: **30.00**
 
 
 3. Program Popularity
-MBA is the most preferred program with**49**students
+MBA is the most preferred program with **49** students
 Followed by:
-BBA – **41**students
-B.Com – **34**students
+BBA – **41** students
+B.Com – **34** students
 Integrated BBA+MBA – **11** students
 
 4. Country Distribution
