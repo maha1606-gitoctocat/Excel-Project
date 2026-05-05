@@ -22,12 +22,45 @@ Total Products: 34
 - Using formulas (SUM, AVERAGE, COUNT)
 - Creating Pivot Tables
 - Generating charts for visualization
-##   Executive-Level Summary
-- Stanford leads in both peak and average performance.
-- MBA is the most demanded program.
-- IB & Finance dominate domain interest.
-- There is a large performance gap between top-tier and lower-performing institutions
-- Student interest is strongly business-oriented.
+  
+##  Key Insights
+1. Top Performing Universities
+Stanford University scored the highest with **71.22**
+Harvard University follows closely with **69.71**
+California Institute of Technology has **67.50**
+
+2. Lowest Performing University
+University of Oxford recorded the lowest score: **30.00**
+
+
+3. Program Popularity
+MBA is the most preferred program with** 49 **students
+Followed by:
+BBA – **41 **students
+B.Com – **34 **students
+Integrated BBA+MBA – **11** students
+
+4. Country Distribution
+Students are mainly from:
+**USA
+UK**
+
+
+5. Score Distribution (Max vs Min)
+Highest marks reach up to **100**
+Lowest observed marks go down to **5**
+
+
+6. Domain Interest (Performance %)
+IB (International Business) – **41%**
+Finance – **39%**
+E&I –** 20%**
+
+7. Harvard vs Stanford Comparison
+Distribution:
+Stanford – 67%
+Harvard – 33%
+
 
 ![Alt Text](https://github.com/maha1606-gitoctocat/Excel-Project/blob/cf9ac6e0a7ae440f0cc27c0097327a8b3c7efed9/Output/Dashboard)
 
