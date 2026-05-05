@@ -34,10 +34,10 @@ University of Oxford recorded the lowest score: **30.00**
 
 
 3. Program Popularity
-MBA is the most preferred program with** 49 **students
+MBA is the most preferred program with**49**students
 Followed by:
-BBA – **41 **students
-B.Com – **34 **students
+BBA – **41**students
+B.Com – **34**students
 Integrated BBA+MBA – **11** students
 
 4. Country Distribution
@@ -54,12 +54,12 @@ Lowest observed marks go down to **5**
 6. Domain Interest (Performance %)
 IB (International Business) – **41%**
 Finance – **39%**
-E&I –** 20%**
+E&I –**20%**
 
 7. Harvard vs Stanford Comparison
 Distribution:
-Stanford – 67%
-Harvard – 33%
+**Stanford – 67%**
+**Harvard – 33%**
 
 
 ![Alt Text](https://github.com/maha1606-gitoctocat/Excel-Project/blob/cf9ac6e0a7ae440f0cc27c0097327a8b3c7efed9/Output/Dashboard)
